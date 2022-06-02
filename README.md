@@ -1,4 +1,4 @@
 # STUFF-COMMERCE
-## Com objetivo de facilitar o anúncio de produtos novos e seminovos foi idealizado o STUFF-COMMERCE ##
+## Com objetivo de facilitar o armazenamnto de seus contatos foi idealizado o Quick schedule ##
 
 **Para realização utilizaremos o django que facilitará nosso pequeno desenvolvimento**
